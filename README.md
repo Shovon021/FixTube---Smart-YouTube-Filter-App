@@ -93,7 +93,52 @@ Gold, Dark, Rose, Ocean, Mint
 | ![Backup](https://img.shields.io/badge/-Backup_&_Restore-6c757d?style=flat-square) | Export/import your settings |
 | ![Bookmark](https://img.shields.io/badge/-Bookmarks-e83e8c?style=flat-square) | Save videos for later |
 
+
 ---
+
+## 📱 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/home.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/🏠_Home-Personalized_Feed-02569B?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/channels.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/📺_Channels-Manage_Subs-4A154B?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/search.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/🔍_Search-Find_Creators-003B57?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/filters.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/⚡_Filters-Powerful_Control-FF0000?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/saved.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/🔖_Saved-Watch_Later-FF9800?style=flat-square" />
+      </td>
+      <td align="center">
+        <br>
+        <h3>✨ Clean & Modern UI</h3>
+        <p>Designed for focus and clarity.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 ## 🧠 Algorithm
 
