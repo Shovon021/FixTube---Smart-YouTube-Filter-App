@@ -98,6 +98,7 @@ Gold, Dark, Rose, Ocean, Mint
 
 ## 📱 Screenshots
 
+
 <div align="center">
   <table>
     <tr>
@@ -129,13 +130,26 @@ Gold, Dark, Rose, Ocean, Mint
         <img src="https://img.shields.io/badge/🔖_Saved-Watch_Later-FF9800?style=flat-square" />
       </td>
       <td align="center">
+        <img src="assets/screenshots/settings.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/⚙️_Settings-Customization-E91E63?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/about.png" width="250" />
+        <br>
+        <img src="https://img.shields.io/badge/ℹ️_About-App_Info-00BCD4?style=flat-square" />
+      </td>
+      <td colspan="2" align="center">
         <br>
         <h3>✨ Clean & Modern UI</h3>
-        <p>Designed for focus and clarity.</p>
+        <p>User experience first design with multiple themes.</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
